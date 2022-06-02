@@ -1,7 +1,7 @@
 # Tatiana Goman
 #### Content manager
 ---
-
+![photo](https://avatars.githubusercontent.com/u/105799780?v=4)
 
 
 ## Contacts
