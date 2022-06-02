@@ -10,32 +10,43 @@
 * **Discord:** @sinlovescos
 * **Telegram:** @sinlovescos
 * **Facebook:** [Tatiana Goman](https://www.facebook.com/sinlovescos)
-
+---
 
 ## Profile
 IT-kisa
 
+---
 
 ## Skills
 * Copywriting
 * Photo editing
 * SMM
 
+---
 
 ## Code example
 No codes examples
+
+---
 
 
 ## Work experience 
 * Booking.com / PS Coordinator
 * Rekordovo Travel Agency / Content Manager
 
+---
 
 ## Education
 Russian State University for the Humanities
-
-
 Journalism / TV and radio journalism
-## English
-Upper-Intermediate 
+Bachelor's degree 2016
 
+---
+
+
+## Languages
+English - Upper-Intermediate 
+Russian - Native
+Spanish - Basic
+
+---
