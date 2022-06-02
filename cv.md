@@ -14,14 +14,23 @@
 
 ## Profile
 IT-kisa
+
+
 ## Skills
 * Copywriting
 * Photo editing
 * SMM
+
+
 ## Code example
+No codes examples
+
+
 ## Work experience 
 * Booking.com / PS Coordinator
 * Rekordovo Travel Agency / Content Manager
+
+
 ## Education
 Russian State University for the Humanities
 
