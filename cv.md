@@ -10,6 +10,8 @@
 * **Discord:** @sinlovescos
 * **Telegram:** @sinlovescos
 * **Facebook:** [Tatiana Goman](https://www.facebook.com/sinlovescos)
+
+
 ---
 
 ## Profile
@@ -45,8 +47,8 @@ Bachelor's degree 2016
 
 
 ## Languages
-English - Upper-Intermediate 
-Russian - Native
-Spanish - Basic
+* English - Upper-Intermediate 
+* Russian - Native
+* Spanish - Basic
 
 ---
