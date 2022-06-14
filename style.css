@@ -1,1 +1,144 @@
-Hello again world
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+  scroll-behavior: smooth; 
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  min-height: 100vh;
+  margin: 0; padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.header {
+    background-color: #F0FEF9;
+    border-bottom: 2px solid #000;
+  }
+
+.main {
+  background-color: #FEFFF6;
+  padding: 50px;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.section {
+  width: 50%;
+  padding: 10px;
+  padding-bottom: 12px;
+}
+
+.section {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  color: #189b93;
+  text-shadow: 1px 1px 1px #000, 1px 1px 1px rgb(190, 189, 189);
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.footer {
+  background-color: #F0FEF9;
+  padding: 20px 50px;
+  border-top: 2px solid #000;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 22px;
+  color: #000;
+  transition: .3s;
+}
+
+.nav-item a {
+  color: #000000;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+
+.nav-item a:hover {
+  color: #662F37;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #000;
+  float:left;
+  margin: 0px 50px 0px 0px;
+}
+
+.name-current-job {
+  display: flex;
+  align-content: right;
+  justify-content: right;
+  padding: 10px 50px 0px 0px;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+}
+
+ .summary-paragraph {
+   text-align: ;
+ }
+
+.git-link {
+  color: #000000;
+  transition: color 0.5s;
+}
+
+.git-link:hover {
+  color: #662F37;
+}
+
+.facebook-link {
+  color: #000000;
+  transition: color 0.5s;
+}
+
+.facebook-link:hover {
+  color: #662F37;
+}
+
+.logo {
+  align-content: right;
+}
